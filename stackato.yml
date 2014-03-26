@@ -1,3 +1,7 @@
 name: catalyst-welcome
+
+framework:
+  type: perl
+
 env:
   CATALYST_HOME: $HOME
