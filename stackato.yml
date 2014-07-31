@@ -1,6 +1,0 @@
-name: catalyst-welcome
-
-buildpack: https://github.com/ActiveState/stackato-buildpack-perl.git
-
-env:
-  CATALYST_HOME: $HOME
