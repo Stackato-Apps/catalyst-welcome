@@ -63,7 +63,7 @@ L<MyApp::Controller::Root>, L<Catalyst>
 
 =head1 AUTHOR
 
-ActiveState,,,
+[enter author here]
 
 =head1 LICENSE
 

@@ -55,7 +55,7 @@ sub end : ActionClass('RenderView') {}
 
 =head1 AUTHOR
 
-ActiveState,,,
+[enter author here]
 
 =head1 LICENSE
 
